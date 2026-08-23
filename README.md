@@ -16,12 +16,14 @@ It works for a ten-second thought as well as an interview, meeting, or longer fi
 
 <table>
   <tr>
-    <td align="center"><img src="assets/screenshots/soundloom-ios-library.png" width="340" alt="Soundloom iPhone recording inbox with Inspiration Quick Capture and Deep Field modes"></td>
-    <td align="center"><img src="assets/screenshots/soundloom-field-outline.jpg" width="340" alt="Soundloom Deep Field result with an overview, timeline, and topics"></td>
+    <td align="center"><img src="assets/screenshots/soundloom-ios-library.png" width="280" alt="Soundloom iPhone recording inbox with Inspiration Quick Capture and Deep Field modes"></td>
+    <td align="center"><img src="assets/screenshots/soundloom-field-outline.jpg" width="280" alt="Soundloom Deep Field result with an overview, timeline, and topics"></td>
+    <td align="center"><img src="assets/screenshots/soundloom-action-button-shortcut.png" width="280" alt="iPhone Action Button configured to start the Soundloom voice quick-capture shortcut"></td>
   </tr>
   <tr>
     <td align="center"><strong>Recording inbox</strong></td>
     <td align="center"><strong>Deep Field outline</strong></td>
+    <td align="center"><strong>Action Button shortcut</strong></td>
   </tr>
 </table>
 

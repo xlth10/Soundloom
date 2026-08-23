@@ -16,12 +16,14 @@
 
 <table>
   <tr>
-    <td align="center"><img src="assets/screenshots/soundloom-ios-library.png" width="340" alt="Soundloom iPhone 录音收件箱，包含灵感闪记和深度现场模式"></td>
-    <td align="center"><img src="assets/screenshots/soundloom-field-outline.jpg" width="340" alt="Soundloom 深度现场整理结果，包含概览、时间线和主题"></td>
+    <td align="center"><img src="assets/screenshots/soundloom-ios-library.png" width="280" alt="Soundloom iPhone 录音收件箱，包含灵感闪记和深度现场模式"></td>
+    <td align="center"><img src="assets/screenshots/soundloom-field-outline.jpg" width="280" alt="Soundloom 深度现场整理结果，包含概览、时间线和主题"></td>
+    <td align="center"><img src="assets/screenshots/soundloom-action-button-shortcut.png" width="280" alt="iPhone 操作按钮设置为启动 Soundloom 语音闪念快捷指令"></td>
   </tr>
   <tr>
     <td align="center"><strong>录音收件箱</strong></td>
     <td align="center"><strong>深度现场提纲</strong></td>
+    <td align="center"><strong>操作按钮快捷指令</strong></td>
   </tr>
 </table>
 
