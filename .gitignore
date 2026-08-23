@@ -1,0 +1,90 @@
+# Xcode
+DerivedData/
+build/
+.codex-derived-data/
+.clang-module-cache/
+*.xcuserstate
+xcuserdata/
+*.xcresult
+*.xccheckout
+*.xcscmblueprint
+
+# Signing and distribution
+*.cer
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+*.ipa
+*.dSYM.zip
+*.xcarchive
+ExportOptions.plist
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+LocalOverrides.xcconfig
+Secrets.xcconfig
+*.secrets.xcconfig
+
+# User recordings, transcripts, and exports
+Recordings/
+VoiceMemos/
+InspirationCards/
+*.m4a
+*.wav
+*.caf
+*.aac
+transcript*.json
+transcript*.md
+
+# Generated and local tooling
+.build/
+.swiftpm/
+.skill-build/
+.learnings/
+node_modules/
+*.log
+
+# Emergence Lab working material that is not part of the public source release
+animations/
+icon-design/
+docs/audit/
+design-qa.md
+project.json
+reflection.md
+research.md
+
+# Non-iPhone implementations deferred from the initial source publication
+Package.swift
+MacInfo.plist
+MacInfo.swiftpm.plist
+SoundloomMac.xcodeproj/
+Tests/
+.github/workflows/ci.yml
+src/MacAudioRhythmView.swift
+src/MacRecordingEngine.swift
+src/MacSoundloomRootView.swift
+src/PlatformIntegration.swift
+src/PlaybackEngine.swift
+src/SoundloomMacApp.swift
+src/WatchConnectivityReceiver.swift
+src/WatchRecorderView.swift
+
+# Historical non-iPhone implementation notes kept locally
+docs/mac-catalyst-implementation.md
+docs/mac-secondary-pages-plan.md
+docs/product-design-audit.md
+docs/product-design-feasibility-2026-08-12.md
+docs/soundloom-integration.md
+docs/system-flow.mmd
+
+# Editor state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store

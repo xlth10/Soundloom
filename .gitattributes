@@ -1,0 +1,19 @@
+* text=auto eol=lf
+
+*.swift text diff=swift
+*.md text
+*.json text
+*.yml text
+*.yaml text
+*.plist text
+*.pbxproj text
+*.xcscheme text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.mp4 binary
+*.m4a binary
+*.wav binary

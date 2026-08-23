@@ -1,0 +1,30 @@
+name: Feature request / 功能建议
+description: Propose a product improvement before implementation / 实现前提出产品改进
+title: "[Proposal]: "
+labels: [proposal]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: User problem / 用户问题
+      description: Describe the problem, not only the desired control or API.
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Proposed boundary / 建议边界
+    validations:
+      required: true
+  - type: textarea
+    id: privacy
+    attributes:
+      label: Privacy and recording impact / 隐私与录音影响
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation plan / 验证方法
+    validations:
+      required: true
