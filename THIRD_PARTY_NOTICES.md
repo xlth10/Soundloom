@@ -30,9 +30,9 @@ Emergence Lab 工作目录包含第三方产品或页面的调研输入和审计
 
 ## Maintainer-provided product assets / 维护者提供的产品素材
 
-The screenshots under `assets/screenshots/` were supplied by the project maintainer for repository presentation. They are product and brand materials, not source code, and are reserved under `TRADEMARKS.md`. Local AI-assisted icon and animation exploration workspaces are intentionally excluded from the public source set.
+The official app icon under `assets/branding/` and the screenshots under `assets/screenshots/` were supplied by the project maintainer for repository presentation. They are product and brand materials, not source code, and are reserved under `TRADEMARKS.md`. Local AI-assisted icon and animation exploration workspaces are intentionally excluded from the public source set.
 
-`assets/screenshots/` 中的截图由项目维护者提供，用于仓库展示。它们属于产品与品牌素材，不属于源代码，并受 `TRADEMARKS.md` 约束。本地 AI 辅助图标和动画探索工作区会被有意排除在公开源码集合之外。
+`assets/branding/` 中的正式 App 图标与 `assets/screenshots/` 中的截图由项目维护者提供，用于仓库展示。它们属于产品与品牌素材，不属于源代码，并受 `TRADEMARKS.md` 约束。本地 AI 辅助图标和动画探索工作区会被有意排除在公开源码集合之外。
 
 ## Current vendored dependencies / 当前随仓库依赖
 

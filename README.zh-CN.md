@@ -1,9 +1,12 @@
-# Soundloom
+<p align="center">
+  <img src="assets/branding/soundloom-app-icon.png" width="128" alt="Soundloom App 图标">
+</p>
 
-[English](README.md)
+<h1 align="center">Soundloom</h1>
 
-> *Weave voice into clarity.*<br>
-> 把声音织成脉络。
+<p align="center"><a href="README.md">English</a></p>
+
+<p align="center"><em>Weave voice into clarity.</em><br>把声音织成脉络。</p>
 
 录音很容易，之后找回真正重要的内容却很难。Soundloom 是一个 iPhone 录音整理工具：它先保留原始声音，再把转写、人物、事件和主题放回同一条脉络里。
 

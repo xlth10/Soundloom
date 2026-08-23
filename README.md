@@ -1,9 +1,12 @@
-# Soundloom
+<p align="center">
+  <img src="assets/branding/soundloom-app-icon.png" width="128" alt="Soundloom app icon">
+</p>
 
-[简体中文](README.zh-CN.md)
+<h1 align="center">Soundloom</h1>
 
-> *Weave voice into clarity.*<br>
-> 把声音织成脉络。
+<p align="center"><a href="README.zh-CN.md">简体中文</a></p>
+
+<p align="center"><em>Weave voice into clarity.</em><br>把声音织成脉络。</p>
 
 Recording is easy. Finding the useful part later is not. Soundloom is an iPhone app that keeps the original audio and brings the transcript, people, events, and topics back into the same context.
 
